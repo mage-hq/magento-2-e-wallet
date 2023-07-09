@@ -1,5 +1,5 @@
 # magento-2-e-wallet
-The Magento 2 e-wallet extension allows your customers to make payments via e-wallet payment method and can return the money to their wallet if the user cancels the order.
+Your customers can use the e-wallet payment method and receive a wallet refund for canceled orders with the Magento 2 e-wallet extension.
 
 Please go to https://magehq.com/magento-2-e-wallet.html buy extension
 
